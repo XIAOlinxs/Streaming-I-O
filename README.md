@@ -43,7 +43,7 @@ currently used build are available in the "FFmpeg" folder in the Product's insta
 
 3\. Use of the Product by you
 
-3.1. LiveMix agrees that it obtains no right, title or interest from you under this License in or to any software applications or content that you develop or produce using the Product, including any Intellectual Property Rights that subsist in those applications. You agree to use the Product only for purposes that are permitted by (a) this License and (b) any applicable law, regulation or generally ![](.gitbook/assets/1.png)accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the United States or other relevant countries).
+3.1. LiveMix agrees that it obtains no right, title or interest from you under this License in or to any software applications or content that you develop or produce using the Product, including any Intellectual Property Rights that subsist in those applications. You agree to use the Product only for purposes that are permitted by (a) this License and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the United States or other relevant countries).
 
 3.2. You agree that you shall not engage in any activity with the Product, including the development or distribution of an application, that interferes with, disrupts, damages, or accesses in an unauthorized manner the servers, networks, or other properties or services of any third party including, but not limited to, LiveMix or any data or communications carrier.
 
