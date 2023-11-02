@@ -12,6 +12,8 @@ You can select the type of source:
 
 ![](.gitbook/assets/源类别.png)
 
+The types are:
+
 * Hardware - all the real devices (Decklink, AJA, Bluefish, Magewell, web-cameras, USB-connected devices, etc.).
 * NDI - all the NDI sources available on your machine
 * VT - feeds from Video Transport
@@ -25,6 +27,8 @@ For NDI and VT options, when you open the list, Streaming I/O dynamically refres
 
 Next, you should set a unique source name that you'll see in the Sources list later.
 
+#### Video Settings
+
 With the video format list, you can set the video format for the device to work with. Most sources (NDI and VT feeds included) support the auto-detection (**Auto/Not Specified**) of the input signal, but for some of them (e.g. Decklink), you can set it specifically:
 
 ![](https://2640386862-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWeDSPKGN0gVp2Gooat%2F-MXGfIUdqxTo3qjQvRhl%2F-MXGo9XtWLxghxrkHeiO%2Fimage.png?alt=media\&token=1766f475-aa8c-4e13-9388-b4dd89268b2b)
@@ -32,6 +36,8 @@ With the video format list, you can set the video format for the device to work 
 With the input line, you can set for capture devices what lines should be used for the input processing: SDI or HDMI, for example:
 
 ![](https://2640386862-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWeDSPKGN0gVp2Gooat%2F-MXGfIUdqxTo3qjQvRhl%2F-MXGocn94JPw6U75q7jC%2Fimage.png?alt=media\&token=7c80c7af-1962-4778-af47-cf2e3faaa5f1)
+
+#### Audio Settings
 
 By default, you use the embedded audio with your video source. The Audio list includes external audio sources that you can add to the original embedded audio of your source. For example, you can add your local microphone to the existing NDI feed. If you like to keep just the original audio, choose the **No External Audio** option:
 
@@ -58,6 +64,8 @@ After that, the settings menu is open:
 ![](https://2640386862-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWeDSPKGN0gVp2Gooat%2F-MXGfIUdqxTo3qjQvRhl%2F-MXGrTBT8OEdHtFDtqtu%2Fimage.png?alt=media\&token=3eee1e07-0c43-4f1e-9895-6d503d8b9425)
 
 Change the settings, and click the **Save Source** button to implement the changes. If you'd like to cancel the changes, click the **X** button at the top-right corner. To delete the source, click the trash bin button.
+
+#### Network Streams
 
 For this type of sources, the interface looks like
 

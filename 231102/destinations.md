@@ -12,6 +12,8 @@ By clicking the Add Destination or the + button, you open the destination config
 
 First, you select the type of destination -- whether it is a local file recording or a network streaming.
 
+#### Local File Recording
+
 Next is the first list includes the encoding presets -- available configurations of the encoding (container, video codec, audio codec, additional parameters). This is covered in detail in the next chapter.
 
 Next comes the destination name which you can see in the Destinations list.
@@ -54,6 +56,8 @@ By this, you open the destination settings menu:
 ![](.gitbook/assets/录制时间1.1.png)
 
 You can change the parameters and click the Save Destination button to apply the changes. Click the X button at the top-right corner to cancel the changes. To remove the destination, click the trash bin button.
+
+#### Network Streaming
 
 This type of destination is for streaming. You can use it for YouTube or Twitch streaming, for UDP or SRT point-to-point streaming, and others.
 

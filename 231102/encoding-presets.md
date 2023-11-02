@@ -49,7 +49,7 @@ The Audio contains available audio sources:
 
 ![](https://2640386862-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWeDSPKGN0gVp2Gooat%2F-MXGfIUdqxTo3qjQvRhl%2F-MXH0BAw4miGfqK8riaz%2Fimage.png?alt=media\&token=90e1c012-dee1-4b0b-a690-c9d2156ed12f)
 
-You can copy the configuration to the clipboard with the top-right button to share it with your teammates or with Medialooks support engineers.
+You can copy the configuration to the clipboard with the top-right button to share it with your teammates or with Livemix support engineers.
 
 Here is how the configuration might look like:
 

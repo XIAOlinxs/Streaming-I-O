@@ -1,6 +1,6 @@
 # License activation
 
-When you start Direct Take the first time, you start it in a trial mode. With the trial, you have all the features enabled except for the duration of the recorded files is limited.
+When you start Streaming I/O the first time, you start it in a trial mode. With the trial, you have all the features enabled except for the duration of the recorded files is limited.
 
 ![](<.gitbook/assets/画板 2 副本@4x.png>)
 

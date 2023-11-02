@@ -17,7 +17,7 @@ Below you can find the parts of the interface:
 5. List of Destinations,
 6. Performance counters to monitor the actual state of CPU, Memory, and disk use.
 
-#### General workflow of Direct Take <a href="#general-workflow-of-direct-take" id="general-workflow-of-direct-take"></a>
+#### General workflow of Streaming I/O <a href="#general-workflow-of-direct-take" id="general-workflow-of-direct-take"></a>
 
 1. Configure one or multiple sources,
 2. Сonfigure one or multiple destinations,
