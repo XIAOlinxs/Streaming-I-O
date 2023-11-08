@@ -61,6 +61,6 @@ You can change the parameters and click the Save Destination button to apply the
 
 This type of destination is for streaming. You can use it for YouTube or Twitch streaming, for UDP or SRT point-to-point streaming, and others.
 
-![](https://2640386862-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWeDSPKGN0gVp2Gooat%2F-Mb1dzLImFiDTaMyR-yC%2F-Mb1eH4rUBmQv9ut2dKI%2Fimage.png?alt=media\&token=ce3b0c81-d241-4940-92fb-623a4ad04f6e)
+![](<.gitbook/assets/网络输出设置 英文.png>)
 
 Set the **Target URL** with an address of your server with an optional field for the **Stream key** to set up the streaming destination. The presets are independent of the ones created for the Local File Recording option.

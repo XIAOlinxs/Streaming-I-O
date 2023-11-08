@@ -16,20 +16,18 @@ The types are:
 
 * Hardware - all the real devices (Decklink, AJA, Bluefish, Magewell, web-cameras, USB-connected devices, etc.).
 * NDI - all the NDI sources available on your machine
-* VT - feeds from Video Transport
-* Network Stream - stream from a public or a local network (RTMP, RTSP, UDP, YouTube, IP cameras, etc.)
 
 Once the type is selected, you can choose the device (or stream):
 
-![](https://2640386862-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWeDSPKGN0gVp2Gooat%2F-MXGfIUdqxTo3qjQvRhl%2F-MXGmweIw4FWfTUnSIQY%2Fimage.png?alt=media\&token=daab19e4-e302-44fa-a7d8-1abb801811fb)
+![](<.gitbook/assets/硬件源列表 英文.png>)
 
-For NDI and VT options, when you open the list, Streaming I/O dynamically refreshes available sources.
+For NDI  options, when you open the list, Streaming I/O dynamically refreshes available sources.
 
 Next, you should set a unique source name that you'll see in the Sources list later.
 
 #### Video Settings
 
-With the video format list, you can set the video format for the device to work with. Most sources (NDI and VT feeds included) support the auto-detection (**Auto/Not Specified**) of the input signal, but for some of them (e.g. Decklink), you can set it specifically:
+With the video format list, you can set the video format for the device to work with. Most sources (NDI  feeds included) support the auto-detection (**Auto/Not Specified**) of the input signal, but for some of them (e.g. Decklink), you can set it specifically:
 
 ![](https://2640386862-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWeDSPKGN0gVp2Gooat%2F-MXGfIUdqxTo3qjQvRhl%2F-MXGo9XtWLxghxrkHeiO%2Fimage.png?alt=media\&token=1766f475-aa8c-4e13-9388-b4dd89268b2b)
 
@@ -61,7 +59,7 @@ To change the source configuration or to remove the source, you should click the
 
 After that, the settings menu is open:
 
-![](https://2640386862-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWeDSPKGN0gVp2Gooat%2F-MXGfIUdqxTo3qjQvRhl%2F-MXGrTBT8OEdHtFDtqtu%2Fimage.png?alt=media\&token=3eee1e07-0c43-4f1e-9895-6d503d8b9425)
+![](<.gitbook/assets/采集卡源  英文.png>)
 
 Change the settings, and click the **Save Source** button to implement the changes. If you'd like to cancel the changes, click the **X** button at the top-right corner. To delete the source, click the trash bin button.
 
@@ -69,6 +67,6 @@ Change the settings, and click the **Save Source** button to implement the chang
 
 For this type of sources, the interface looks like
 
-![](https://2640386862-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWeDSPKGN0gVp2Gooat%2F-Mb1Ygp95jFUaA9sdWXK%2F-Mb1acb8JWMc\_Lo8pPZi%2Fimage.png?alt=media\&token=3dc56915-0af2-4b49-9619-721ec68b3115)
+![](<.gitbook/assets/网络源 英文.png>)
 
 where you put a link to the stream in the **Stream URL** field. To improve the stream playback stability, you can set the minimal buffer value. With this setting, the initialization time might be longer but the playback is more stable.
